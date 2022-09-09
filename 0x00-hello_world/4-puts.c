@@ -2,7 +2,7 @@
 
 /**
  *
- * main - main block
+ * main block
  *
  * Return: 0
  *
