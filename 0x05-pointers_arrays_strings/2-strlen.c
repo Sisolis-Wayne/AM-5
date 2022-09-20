@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - This function returns
+ * _strlen - This function returns
  * the length of a string
- *
+ * @s: the pointer for the char
  * Return: 0
  */
 
